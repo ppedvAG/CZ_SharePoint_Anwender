@@ -1,4 +1,4 @@
-# Carl Zeiss SharePoint Anwender
+# CS SharePoint Anwender
 
 `Ort: VIRTUAL CLASSROOM | Format: VOLLZEIT`
 
