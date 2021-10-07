@@ -1,6 +1,6 @@
 # Carl Zeiss SharePoint Anwender
 
-`Zeitraum: 01.10.2021 | Ort: VIRTUAL CLASSROOM | Format: VOLLZEIT`
+`Ort: VIRTUAL CLASSROOM | Format: VOLLZEIT`
 
 ## Schulungsunterlage
 
